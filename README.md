@@ -63,8 +63,16 @@ Risk & Default Analysis – High-risk customer identification.
 
 Financial Performance – Interest income and repayment trends.
 
-<a href="https://github.com/Parasu-ram-ss/Data_Analysis_Dashboard/blob/main/Logistics%20Analysis%20Dashboard.pbix">PowerBi File</a>
+<a href="https://github.com/Parasu-ram-ss/Loan_Analysis_dashboard/blob/main/Loan_Analysis_Dashboard.pbix">PowerBi File</a>
 
+
+# Business Insights
+
+The organization lacks a centralized system to monitor loan approvals, repayment performance, and default risks. Manual reporting limits effective decision-making.
+
+# Conclusion
+
+The Loan Analysis Dashboard provides an interactive solution for monitoring loan performance and supports management in making informed financial decisions.
 
 
 
