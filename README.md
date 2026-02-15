@@ -16,4 +16,4 @@ The dataset includes applicant details, loan amount, loan status, interest rate,
 •	Data Modeling and Relationships
 
 •	DAX (Data Analysis Expressions)
-<a href="https://github.com/Parasu-ram-ss/Data_Analysis_Dashboard/tree/main">dataset</a>
+<a href="https://github.com/Parasu-ram-ss/Loan_Analysis_dashboard/blob/main/Loan_Data.xlsx"> dataset </a>
