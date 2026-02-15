@@ -39,7 +39,33 @@ The dashboard provides insights into loan approvals, repayments, defaults, and o
 
 •	Identify high-risk applicants
 
-<a href="https://github.com/Parasu-ram-ss/Loan_Analysis_dashboard/blob/main/Loan_Data.xlsx"> Business Requirements </a>
+<a href="https://github.com/Parasu-ram-ss/Loan_Analysis_dashboard/blob/main/Loan_Analysis_Business_Requirements_Document.docx"> Business Requirements </a>
+
+
+# Data Transformation Process
+
+•	Microsoft Power BI Desktop (.pbix)
+
+•	Power Query for Data Transformation
+
+•	Data Modeling and Relationships
+
+•	DAX (Data Analysis Expressions)
+
+
+# Power Bi DashBoard
+
+Overview Page – Summary KPIs and loan trends.
+
+Approval & Rejection Analysis – Approval rate breakdown.
+
+Risk & Default Analysis – High-risk customer identification.
+
+Financial Performance – Interest income and repayment trends.
+
+<a href="https://github.com/Parasu-ram-ss/Data_Analysis_Dashboard/blob/main/Logistics%20Analysis%20Dashboard.pbix">PowerBi File</a>
+
+
 
 
 
