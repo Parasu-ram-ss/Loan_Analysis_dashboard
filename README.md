@@ -25,4 +25,21 @@ The dataset includes applicant details, loan amount, loan status, interest rate,
 
 The dashboard provides insights into loan approvals, repayments, defaults, and overall financial performance.
 
+<a href="https://github.com/Parasu-ram-ss/Loan_Analysis_dashboard/blob/main/Loan_Analysis_Project_Documentation.docx"> Project Overview</a>
+
+# Business Requirements
+
+•	Improve loan approval decision-making
+
+•	Reduce default rates
+
+•	Monitor repayment performance
+
+•	Increase profitability
+
+•	Identify high-risk applicants
+
+<a href="https://github.com/Parasu-ram-ss/Loan_Analysis_dashboard/blob/main/Loan_Data.xlsx"> Business Requirements </a>
+
+
 
