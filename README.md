@@ -63,6 +63,14 @@ Risk & Default Analysis – High-risk customer identification.
 
 Financial Performance – Interest income and repayment trends.
 
+<img width="1399" height="804" alt="Screenshot 2026-02-15 115559" src="https://github.com/user-attachments/assets/39d4aefd-c666-4541-a236-287588e0c498" />
+
+<img width="1401" height="809" alt="Screenshot 2026-02-15 115623" src="https://github.com/user-attachments/assets/55424d1f-7f90-4dfe-8e1d-bcc8ba789f58" />
+
+<img width="1398" height="801" alt="Screenshot 2026-02-15 115645" src="https://github.com/user-attachments/assets/ea050136-2a43-4360-b9bd-b3d49ee03a2e" />
+
+
+
 <a href="https://github.com/Parasu-ram-ss/Loan_Analysis_dashboard/blob/main/Loan_Analysis_Dashboard.pbix">PowerBi File</a>
 
 
